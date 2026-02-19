@@ -24,4 +24,7 @@ Aplikasi **News Feed Simulator** merupakan simulasi tampilan berita yang akan te
 
 
 ## Screenshoot Aplikasi
-<img width="377" height="835" alt="Screenshot 2026-02-19 155950" src="https://github.com/user-attachments/assets/ab88a834-8577-4aa7-9876-e06f5bee2fb8" />
+<img width="1080" height="2400" alt="Screenshot_20260219_160007" src="https://github.com/user-attachments/assets/ccc37da2-727b-40af-a011-68610888a7d8" />
+
+## Link
+https://github.com/10-046-JanaRohman/TugasPraktikum2_PAM_123140046
