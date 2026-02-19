@@ -1,4 +1,4 @@
-# Tugas Praktikum 2 PAM
+# Tugas Praktikum 2 PAM (Pengembangan Aplikasi Mobile)
 
 #### Nama : Jana Rohman Wasiso
 #### NIM  : 123140046
@@ -24,3 +24,4 @@ Aplikasi **News Feed Simulator** merupakan simulasi tampilan berita yang akan te
 
 
 ## Screenshoot Aplikasi
+<img width="377" height="835" alt="Screenshot 2026-02-19 155950" src="https://github.com/user-attachments/assets/ab88a834-8577-4aa7-9876-e06f5bee2fb8" />
